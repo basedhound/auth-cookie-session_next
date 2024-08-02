@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://iphone15-fv.netlify.app" target="_blank">
+    <a href="https://auth-cookie-session.netlify.app" target="_blank">
       <img src="design/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Auth Cookie Session - Next.js 14</h3>
